@@ -19,9 +19,11 @@
 				"D:/BeachProject/Content/Beach/Beach.umap",
 				"D:/BeachProject/Content/ThirdPerson/Blueprints/BP_InventoryComponent.uasset",
 				"D:/BeachProject/Content/Beach/Blueprint_Test.umap",
-				"D:/BeachProject/Content/Main_UI/RemoveItems.uasset",
 				"D:/BeachProject/Content/Main_UI/CraftExample_BP.uasset",
-				"D:/BeachProject/Content/Main_UI/CraftExample_WB.uasset"
+				"D:/BeachProject/Content/Main_UI/CraftExample_WB.uasset",
+				"D:/BeachProject/Content/Main_UI/Inventory/Crafting/CraftingWoodPlank_WB.uasset",
+				"D:/BeachProject/Content/Main_UI/Inventory/Inventory_WB.uasset",
+				"D:/BeachProject/Content/Main_UI/RemoveItems.uasset"
 			]
 		}
 	]
