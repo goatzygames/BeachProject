@@ -89,6 +89,10 @@
 			"Name": "WaterPhysics",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2d8710643bcf4e2b94a9154d0732b4af"
+		},
+		{
+			"Name": "GeometryScripting",
+			"Enabled": true
 		}
 	]
 }
