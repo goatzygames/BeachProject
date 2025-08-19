@@ -1,0 +1,19 @@
+Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.suo
+*.user
+*.userprefs
+*.log
+*.tlog
+*.obj
+*.pdb
+*.exe
+*.dll
+*.lib
+*.app
+*.ipa
+*.dSYM
