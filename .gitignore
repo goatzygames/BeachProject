@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Unreal Engine
+=======
+# Unreal Engine
+>>>>>>> d7a9cc1455517a6e91b1ac77ee0746217c7605e4
 Binaries/
 DerivedDataCache/
 Intermediate/
@@ -16,4 +20,8 @@ Saved/
 *.lib
 *.app
 *.ipa
+<<<<<<< HEAD
 *.dSYM
+=======
+*.dSYM
+>>>>>>> d7a9cc1455517a6e91b1ac77ee0746217c7605e4
