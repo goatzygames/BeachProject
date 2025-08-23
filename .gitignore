@@ -3,18 +3,27 @@ Binaries/
 DerivedDataCache/
 Intermediate/
 Saved/
-.vs/
+*.VC.db
 *.suo
 *.user
-*.userprefs
 *.log
 *.tlog
-*.obj
 *.pdb
-*.exe
+
+# Visual Studio
+.vs/
+*.sln
+
+# Build Artifacts
 *.dll
-*.lib
+*.exe
 *.app
-*.ipa
-*.dSYM
-*.bin
+*.dylib
+
+# Backup & Temp
+*.tmp
+*.bak
+*.old
+
+# Auto-generated files
+*.generated.*
